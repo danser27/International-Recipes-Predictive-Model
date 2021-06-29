@@ -6,4 +6,4 @@ In the exploratory data analysis section, distribution of the different recipes 
 
 Data transformation has been required using Multibinarizer algorithm. This allows to created multiple bins containing each of those one particular ingredient. Each of this bin has then been used as a feature in the machine learning models.  
 
-Two different classification algorithm have been tested: Logistic Regression and Random Forest Classifier. The first appears to perform slightly better and after hyperparameters tuning has been selected and best model and saved.
+Two different classification algorithm have been tested: Logistic Regression and Random Forest Classifier. The first appears to perform slightly better and after hyperparameters tuning has been selected as best model and saved.
